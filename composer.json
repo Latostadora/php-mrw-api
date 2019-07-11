@@ -1,25 +1,24 @@
 {
-  "name": "klarennns/php-mrw-api",
+  "name": "latostadora/php-mrw-api",
   "type": "project",
-  "description": "Api Client to connectto MRW Services",
+  "description": "Api Client to connect to MRW Services",
   "minimum-stability": "dev",
   "keywords": [
     "Api",
     "Client",
     "MRW"
   ],
-  "homepage": "https://github.com/klarennns/php-mrw-api",
+  "homepage": "https://www.latostadora.com",
   "license": "MIT",
   "authors": [
     {
-      "name": "Albert Claret",
-      "email": "klarensone@gmail.com",
+      "name": "Latostadora IT team",
+      "email": "it@latostadora.com",
       "role": "Developer"
     }
   ],
   "require": {
-    "php": ">=7.0",
-    "symfony/var-dumper": "^3.4"
+    "php": ">=7.0"
   },
   "autoload": {
     "psr-4": {
